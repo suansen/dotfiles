@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = suansen88@gmail.com
+	name = Suan Sen Yeo
